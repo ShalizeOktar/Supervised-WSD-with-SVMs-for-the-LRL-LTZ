@@ -6,4 +6,4 @@ This project implements a supervised system for word sense disambiguation for th
 - Fra
 - falsch
   
-The data can be found in the data.csv file and the code in Hausarbeit-Ambiguitaet.ipynb.
+The data can be found in the [annotated-eng-ltz-data.csv](https://github.com/ShalizeOktar/Supervised-WSD-with-SVMs-for-the-LRL-LTZ/blob/main/annotated-eng-ltz-data.csv) file and the code in [Hausarbeit-Ambiguitaet.ipynb](https://github.com/ShalizeOktar/Supervised-WSD-with-SVMs-for-the-LRL-LTZ/blob/main/Hausarbeit-Ambiguitaet.ipynb).
