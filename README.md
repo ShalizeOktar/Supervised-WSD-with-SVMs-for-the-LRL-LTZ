@@ -5,4 +5,5 @@ This project implements a supervised system for word sense disambiguation for th
 - Meedchen
 - Fra
 - falsch
+  
 The data can be found in the data.csv file and the code in Hausarbeit-Ambiguitaet.ipynb.
