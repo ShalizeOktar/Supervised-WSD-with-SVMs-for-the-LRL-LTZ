@@ -1,72 +1,72 @@
-;;sentence;target_word;sense
-59252;Rain is scarce in this country.;Reen ass rar an dësem Land.;Land;1
-4991897;This country has a harsh climate.;Dëst Land huet e strenge Klima.;Land;1
-3935488;Greece is an old country.;Griicheland ass en aalt Land.;Land;1
-10361780;"My country's name is ""Russia"".";"Mengem Land säin Numm ass ""Russland"".";Land;1
-10620627;Rain is rare in this country.;Reen ass rar an dësem Land.;Land;1
-10620877;That is a specialty of my country.;Dat ass eng Spezialitéit aus mengem Land.;Land;1
+source;;sentence;target_word;sense
+Tatoeba;I am a woman.;Ech sinn eng Fra.;Fra;1
+Tatoeba;Tom is a man, and I'm a woman.;Den Tom ass e Mann, an ech sinn eng Fra.;Fra;1
+Tatoeba;You are not a woman.;Du bass keng Fra.;Fra;1
+Tatoeba;The woman is a teacher.;Déi Fra ass Léierin.;Fra;1
+LOD;I enrolled in a yoga class for women.;Ech hu mech an e Yogascours fir Fraen ageschriwwen.;Fra;1
+LOD;the cloakroom for women is on the left.;De Vestiär fir d'Fraen ass op der lénkser Säit.;Fra;1
+LOD;It rains old women.;Et reent al Fraen.;Fra;1
+Tatoeba;Mary is my wife.;D'Mary ass meng Fra.;Fra;2
+Tatoeba;My wife is a Luxembourger.;Meng Fra ass Lëtzebuergerin.;Fra;2
+Tatoeba;I'm a veterinarian and my wife is a secretary.;Ech sinn Déierendokter a meng Fra ass Sekretärin.;Fra;2
+Tatoeba;This is my wife.;Ech presentéieren Iech meng Fra.;Fra;2
+Tatoeba;She is my wife.;Si ass meng Fra.;Fra;2
+Tatoeba;How is your wife doing?;Wéi geet et denger Fra?;Fra;2
+LOD;My boss has been married to his wife for thirty years.;Mäi Patron ass zënter drësseg Joer mat senger Fra bestuet.;Fra;2
+LOD;He divorced his wife.;Hien huet sech vun senger Fra scheede gelooss.;Fra;2
+LOD;I have a wife and children.;Ech hu Fra a Kanner.;Fra;2
+Tatoeba;Rain is scarce in this country.;Reen ass rar an dësem Land.;Land;1
+Tatoeba;This country has a harsh climate.;Dëst Land huet e strenge Klima.;Land;1
+Tatoeba;Greece is an old country.;Griicheland ass en aalt Land.;Land;1
+Tatoeba;"My country's name is ""Russia"".";"Mengem Land säin Numm ass ""Russland"".";Land;1
+Tatoeba;Rain is rare in this country.;Reen ass rar an dësem Land.;Land;1
+Tatoeba;That is a specialty of my country.;Dat ass eng Spezialitéit aus mengem Land.;Land;1
 LOD;Our country has borders with three other countries.;Eist Land huet Grenze mat dräi anere Länner.;Land;1
 LOD;My cousin has already been to over 30 countries on vacation.;Mäi Cousin war schonn an iwwer 30 Länner an der Vakanz.;Land;1
 LOD;He's back in the country.;Hien ass nees zu Land.;Land;1
 LOD;The whole country stands behind his football team.;D'ganzt Land steet hanner senger Fussballsekipp.;Land;1
 LOD;All the inhabitants of the country stand behind their football team.;All d'Awunner vum Land stinn hanner hirer Fussballsekipp.;Land;1
-16950;Your answer is wrong.;Deng Äntwert ass falsch.;FALSCH;1
-16950;Your answer is wrong.;Är Äntwert ass falsch.;FALSCH;1
-2966889;Your answer is incorrect.;Deng Äntwert ass falsch.;FALSCH;1
-LOD;That bill is wrong.;Déi Rechnung ass falsch.;FALSCH;1
-LOD;The clarinetist played very wrong.;De Klarinettist huet ganz falsch gespillt.;FALSCH;1
-740214;I am a woman.;Ech sinn eng Fra.;Fra;1
-9345843;Tom is a man, and I'm a woman.;Den Tom ass e Mann, an ech sinn eng Fra.;Fra;1
-10620597;You are not a woman.;Du bass keng Fra.;Fra;1
-10620674;The woman is a teacher.;Déi Fra ass Léierin.;Fra;1
-LOD;I enrolled in a yoga class for women.;Ech hu mech an e Yogascours fir Fraen ageschriwwen.;Fra;1
-LOD;the cloakroom for women is on the left.;De Vestiär fir d'Fraen ass op der lénkser Säit.;Fra;1
-LOD;It rains old women.;Et reent al Fraen.;Fra;1
-408293;What's your name?;Wat ass däin Numm?;Numm;1
-408293;What's your name?;Wat ass Ären Numm?;Numm;1
-9349919;The cat's name is Tom.;Den Numm vun der Kaz ass Tom.;Numm;1
-5927095;It's a Scandinavian name.;Et ass e skandinaveschen Numm.;Numm;1
-10361774;"My village's name is ""Polperro"".";"De Numm vu mengem Duerf ass ""Polperro"".";Numm;1
-10361780;"My country's name is ""Russia"".";"Mengem Land säin Numm ass ""Russland"".";Numm;1
-70623;What is your name?;Wat ass däin Numm?;Numm;1
-LOD;;Dir musst Ären Numm, Är Adress an Är Telefonsnummer uginn.;Numm;1
-LOD;;Am Klassebuch ass eng Lëscht mat den Nimm vun de Schüler.;Numm;1
-LOD;;Den Auto ass op mäin Numm ugemellt.;Numm;1
-LOD;;Weess de kee schéinen Numm fir eisen neien Hond?;Numm;1
-LOD;;Ech kennen hien nëmme vum Numm hier.;Numm;1
-LOD;;D'Rechnung geet op mäin Numm.;Numm;1
-4348223;The girl saw it, too.;D'Meedchen huet et och gesinn.;Meedchen;1
-2363944;I am a girl.;Ech sinn e Meedchen.;Meedchen;1
-9358980;Tom is a boy, and Mary is a girl.;Den Tom ass e Jong, an d'Mary ass e Meedchen.;Meedchen;1
-10620728;The girl has seen it too.;D'Meedchen huet et och gesinn.;Meedchen;1
-10620797;I'm Mrs. Schneider's girl.;Ech sinn der Madame Schneider hiert Meedchen.;Meedchen;1
+LOD;My uncle has over 100 acres of land.;Mäi Monni huet iwwer 100 Hektar Land.;Land;2
+LOD;After four days at sea we were glad to see land.;No véier Deeg um Mier ware mer frou, Land ze gesinn.;Land;3
+LOD;The passengers disembarked at the port.;D'Passagéier sinn am Hafen u Land gaangen.;Land;3
+Tatoeba;The girl saw it, too.;D'Meedchen huet et och gesinn.;Meedchen;1
+Tatoeba;I am a girl.;Ech sinn e Meedchen.;Meedchen;1
+Tatoeba;Tom is a boy, and Mary is a girl.;Den Tom ass e Jong, an d'Mary ass e Meedchen.;Meedchen;1
+Tatoeba;The girl has seen it too.;D'Meedchen huet et och gesinn.;Meedchen;1
+Tatoeba;I'm Mrs. Schneider's girl.;Ech sinn der Madame Schneider hiert Meedchen.;Meedchen;1
 LOD;What a lovely girl!;Wat ass dat e léift Meedchen!;Meedchen;1
 LOD;He married a rich girl.;Hie bestit e räicht Meedchen.;Meedchen;1
-LOD;My uncle has over 100 acres of land.;Mäi Monni huet iwwer 100 Hektar Land.;Land;2
-3286855;You've done nothing wrong.;Du hues näischt falsch gemaach.;FALSCH;2
+Tatoeba;My daughter has a dental appointment tomorrow.;Mäi Meedchen huet muer Rendez-vous beim Zänndokter.;Meedchen;2
+Tatoeba;Tom and Mary have a daughter.;Tom a Mary hunn e Meedchen.;Meedchen;2
+Tatoeba;I am the daughter of Madame Schneider.;Ech sinn der Madame Schneider hiert Meedchen.;Meedchen;2
+Tatoeba;My daughter has an appointment with the dentist tomorrow.;Mäi Meedchen huet muer Rendez-vous beim Zänndokter.;Meedchen;2
+LOD;The baker's daughter is getting married next week.;Dem Bäcker säi Meedche gëtt déi aner Woch bestuet.;Meedchen;2
+LOD;His little girl is a real babe.;Säi klengt Meedchen ass eng richteg Babbel.;Meedchen;2
+Tatoeba;What's your name?;Wat ass däin Numm?;Numm;1
+Tatoeba;What's your name?;Wat ass Ären Numm?;Numm;1
+Tatoeba;The cat's name is Tom.;Den Numm vun der Kaz ass Tom.;Numm;1
+Tatoeba;It's a Scandinavian name.;Et ass e skandinaveschen Numm.;Numm;1
+Tatoeba;"My village's name is ""Polperro"".";"De Numm vu mengem Duerf ass ""Polperro"".";Numm;1
+Tatoeba;"My country's name is ""Russia"".";"Mengem Land säin Numm ass ""Russland"".";Numm;1
+Tatoeba;What is your name?;Wat ass däin Numm?;Numm;1
+LOD;You must provide your name, address and telephone number.;Dir musst Ären Numm, Är Adress an Är Telefonsnummer uginn.;Numm;1
+LOD;In the class book there is a list of the names of the students.;Am Klassebuch ass eng Lëscht mat den Nimm vun de Schüler.;Numm;1
+LOD;The car is registered in my name.;Den Auto ass op mäin Numm ugemellt.;Numm;1
+LOD;Don't you know a nice name for our new dog?;Weess de kee schéinen Numm fir eisen neien Hond?;Numm;1
+LOD;I only know him by name.;Ech kennen hien nëmme vum Numm hier.;Numm;1
+LOD;The bill is in my name.;D'Rechnung geet op mäin Numm.;Numm;1
+LOD;The product is available under two different names.;Et fënnt een d'Produkt ënner zwee verschiddenen Nimm.;Numm;2
+LOD;I wrote down the name of the street.;Ech hunn den Numm vun der Strooss opgeschriwwen.;Numm;2
+Tatoeba;Your answer is wrong.;Deng Äntwert ass falsch.;FALSCH;1
+Tatoeba;Your answer is wrong.;Är Äntwert ass falsch.;FALSCH;1
+Tatoeba;Your answer is incorrect.;Deng Äntwert ass falsch.;FALSCH;1
+LOD;That bill is wrong.;Déi Rechnung ass falsch.;FALSCH;1
+LOD;The clarinetist played very wrong.;De Klarinettist huet ganz falsch gespillt.;FALSCH;1
+Tatoeba;You've done nothing wrong.;Du hues näischt falsch gemaach.;FALSCH;2
 LOD;We got on the wrong bus at the station.;Mir sinn op der Gare an de falsche Bus geklommen.;FALSCH;2
 LOD;Here you are wrong!;Hei sidd Dir falsch!;FALSCH;2
 LOD;You are in the wrong place here.;Hei sidd Dir op der falscher Plaz.;FALSCH;2
 LOD;He made a wrong move.;Hien huet eng falsch Beweegung gemaach.;FALSCH;2
-4419624;Mary is my wife.;D'Mary ass meng Fra.;Fra;2
-8873680;My wife is a Luxembourger.;Meng Fra ass Lëtzebuergerin.;Fra;2
-10351715;I'm a veterinarian and my wife is a secretary.;Ech sinn Déierendokter a meng Fra ass Sekretärin.;Fra;2
-1898100;This is my wife.;Ech presentéieren Iech meng Fra.;Fra;2
-7580714;She is my wife.;Si ass meng Fra.;Fra;2
-1487674;How is your wife doing?;Wéi geet et denger Fra?;Fra;2
-LOD;My boss has been married to his wife for thirty years.;Mäi Patron ass zënter drësseg Joer mat senger Fra bestuet.;Fra;2
-LOD;He divorced his wife.;Hien huet sech vun senger Fra scheede gelooss.;Fra;2
-LOD;I have a wife and children.;Ech hu Fra a Kanner.;Fra;2
-LOD;;Et fënnt een d'Produkt ënner zwee verschiddenen Nimm.;Numm;2
-LOD;;Ech hunn den Numm vun der Strooss opgeschriwwen.;Numm;2
-8493168;My daughter has a dental appointment tomorrow.;Mäi Meedchen huet muer Rendez-vous beim Zänndokter.;Meedchen;2
-4493605;Tom and Mary have a daughter.;Tom a Mary hunn e Meedchen.;Meedchen;2
-10242504;I am the daughter of Madame Schneider.;Ech sinn der Madame Schneider hiert Meedchen.;Meedchen;2
-10620823;My daughter has an appointment with the dentist tomorrow.;Mäi Meedchen huet muer Rendez-vous beim Zänndokter.;Meedchen;2
-LOD;The baker's daughter is getting married next week.;Dem Bäcker säi Meedche gëtt déi aner Woch bestuet.;Meedchen;2
-LOD;His little girl is a real babe.;Säi klengt Meedchen ass eng richteg Babbel.;Meedchen;2
-LOD;After four days at sea we were glad to see land.;No véier Deeg um Mier ware mer frou, Land ze gesinn.;Land;3
-LOD;The passengers disembarked at the port.;D'Passagéier sinn am Hafen u Land gaangen.;Land;3
 LOD;How can one be so wrong!;Wéi kann een nëmmen esou falsch sinn!;FALSCH;3
 LOD;He is a fake dog!;Hien ass e falschen Hond!;FALSCH;3
 LOD;Don't get your hopes up!;Maach der keng falsch Hoffnungen!;FALSCH;4
